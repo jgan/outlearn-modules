@@ -16,7 +16,7 @@
   ],
 
   "modules" : [
-    {"olm" : "./modules/my-outlearn-module.md"}
+    {"olm" : "./modules/my-awesome-module.md"}
   ],
 
   "assets" : [
