@@ -9,7 +9,7 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "my-outlearn-module"},
+        {"module" : "my-awesome-module"},
         {"page" : "./pages/closing.md"}
       ]
     }

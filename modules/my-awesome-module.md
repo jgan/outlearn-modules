@@ -14,7 +14,7 @@
 
 # What is this page?
 
-This is a placeholder Learning Module for you to customize.  Look in the `my-outlearn-module.md` to see how it is coded up, and then start editing away with your own content.
+This is a placeholder Learning Module for you to customize.  Look in the `my-awesome-module.md` to see how it is coded up, and then start editing away with your own content.
 
 ### Using Markdown
 
