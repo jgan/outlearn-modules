@@ -3,9 +3,9 @@
 
   "paths" : [
     {
-      "name" : "my-outlearn-path",
-      "title" : "My First Outlearn Path",
-      "description" : "Fastest Way to Publish a Path",
+      "name" : "joshs-first-path",
+      "title" : "Josh's Inaugural Path",
+      "description" : "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.",
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
